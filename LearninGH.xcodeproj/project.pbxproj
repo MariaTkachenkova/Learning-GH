@@ -11,6 +11,7 @@
 		65AF756A29670E4100CCEAB8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65AF756929670E4100CCEAB8 /* ContentView.swift */; };
 		65AF756C29670E4100CCEAB8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 65AF756B29670E4100CCEAB8 /* Assets.xcassets */; };
 		65AF757029670E4100CCEAB8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 65AF756F29670E4100CCEAB8 /* Preview Assets.xcassets */; };
+		65AF757729671E5100CCEAB8 /* MyModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65AF757629671E5100CCEAB8 /* MyModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		65AF756B29670E4100CCEAB8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		65AF756D29670E4100CCEAB8 /* LearninGH.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = LearninGH.entitlements; sourceTree = "<group>"; };
 		65AF756F29670E4100CCEAB8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		65AF757629671E5100CCEAB8 /* MyModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				65AF756729670E4100CCEAB8 /* LearninGHApp.swift */,
 				65AF756929670E4100CCEAB8 /* ContentView.swift */,
+				65AF757629671E5100CCEAB8 /* MyModel.swift */,
 				65AF756B29670E4100CCEAB8 /* Assets.xcassets */,
 				65AF756D29670E4100CCEAB8 /* LearninGH.entitlements */,
 				65AF756E29670E4100CCEAB8 /* Preview Content */,
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				65AF756A29670E4100CCEAB8 /* ContentView.swift in Sources */,
+				65AF757729671E5100CCEAB8 /* MyModel.swift in Sources */,
 				65AF756829670E4100CCEAB8 /* LearninGHApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
